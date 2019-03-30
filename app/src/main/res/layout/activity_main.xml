@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <!-- https://youtu.be/uFB2yy0LRIE -->
     <ImageView
         android:id="@+id/imageView1"
         android:layout_width="match_parent"
